@@ -1,0 +1,15 @@
+.wrapper {
+	margin: auto;
+	width: 500px;
+}
+
+.primary_button {
+	display:block;
+	text-align: center;
+	width: 300px;
+	height: 50px;
+	background-color: #cdcdcd;
+	border: 0px;
+	margin:0 auto;
+}
+
